@@ -1,0 +1,12 @@
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.7.1
+geopy==2.3.0
+DateTime==4.3
+seaborn==0.13.1
+scipy==1.11.4
+scikit-learn==1.2.2
+folium==0.14.0
+prophet==1.1.5
+holidays==0.41
+statsmodels==0.14.1
